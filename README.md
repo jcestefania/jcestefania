@@ -29,6 +29,6 @@ Soy estudiante de **Ingeniería Informática** en CUNEF Universidad, apasionado 
 - **Certificación en Ciberseguridad**: Hacking School I & II (U-tad, 2017).  
 
 ## 📫 Contacto
-- **Email**: [juancarloseovejero@gmail.com](mailto:juancarloseovejero@gmail.com)
-- **LinkedIn**: [Juan Carlos Estefanía Ovejero](https://www.linkedin.com/in/juan-carlos-estefanía-ovejero-b4b8862b3)
-- **GitHub**: [jcestefania](https://github.com/jcestefania)
+- ![Email Icon](https://img.icons8.com/ios/20/000000/email.png) **Email**: [juancarloseovejero@gmail.com](mailto:juancarloseovejero@gmail.com)
+- ![LinkedIn Logo](https://img.icons8.com/material-outlined/20/0077b5/linkedin.png) **LinkedIn**: [Juan Carlos Estefanía Ovejero](https://www.linkedin.com/in/juan-carlos-estefanía-ovejero-b4b8862b3)
+- ![GitHub Logo](https://img.icons8.com/material-outlined/20/000000/github.png) **GitHub**: [jcestefania](https://github.com/jcestefania)  
