@@ -4,17 +4,20 @@ Soy estudiante de **Ingeniería Informática** en CUNEF Universidad, apasionado 
 
 ## 🚀 Tecnologías y Habilidades
 - **Lenguajes de Programación**:
-  - Frontend: HTML, CSS, JavaScript (DOM, ES6+).
+  - Frontend: HTML, CSS, JavaScript.
   - Backend: PHP, Python, Java, C, C++.
 - **Frameworks y Tecnologías Web**:
   - Lado del cliente: React, AJAX, jQuery.
   - Lado del servidor: Node.js, Express.
   - APIs: Diseño y prueba con Swagger OpenAPI, Postman.
-- **Bases de Datos**: MySQL, MongoDB, Cassandra, Oracle, SQL Server, Neo4j.
-- **Herramientas de Desarrollo y Entornos**: Git, GitHub, Visual Studio Code, XAMPP, Postman.
-- **Análisis y Ciencia de Datos**: Pandas, NumPy, Scikit-Learn, R, MATLAB.
-- **Diseño y Documentación**: Diseño responsivo, integración de frontend y backend.
-- **Sistemas Operativos**: Linux (Ubuntu, scripting Bash), Windows.
+- **Bases de Datos**: MySQL, Oracle, SQL Server, MongoDB, Cassandra, Neo4j.
+- **Inteligencia Artificial y Redes Neuronales**:
+  - Diseño y entrenamiento de redes neuronales con TensorFlow y PyTorch.
+  - Aplicación de CNNs y RNNs en clasificación de imágenes y análisis de datos.
+  - Implementación de modelos de Machine Learning supervisado y no supervisado.
+- **Análisis y Ciencia de Datos**:
+  - Pandas, Numpy, Scikit-Learn, NLTK (Natural Language Toolkit), R, MATLAB, Maple.
+- **Herramientas de Desarrollo y Entornos**: Git, GitHub, Visual Studio Code, XAMPP, LaTeX.
 
 ## 🌟 Proyectos Destacados
 - **[SpotifySongRecommender](https://github.com/jcestefania/SpotifySongRecommender)**: SpotifySongRecommender is a C++ project for analyzing and recommending songs. It includes features like recommending songs and artists based on musical genres, and generating popularity rankings by artist or genre.
