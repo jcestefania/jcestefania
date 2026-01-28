@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Juan Carlos Estefanía Ovejero
 
-I'm a **Computer Science graduate** from CUNEF University, passionate about software development, artificial intelligence, and cybersecurity. I specialize in creating innovative technological solutions while staying committed to continuous learning and improvement. I'm looking to be part of challenging projects that combine technology and creativity to solve real-world problems.
+I'm a **Computer Science graduate** from CUNEF University and currently pursuing an **MSc in Applied Artificial Intelligence @UC3M**. I'm passionate about software development and artificial intelligence. I specialize in creating innovative technological solutions while staying committed to continuous learning and improvement. I'm looking to be part of challenging projects that combine technology and creativity to solve real-world problems.
 
 ## 🚀 Technologies and Skills
 - **Programming Languages**:
@@ -27,6 +27,7 @@ I'm a **Computer Science graduate** from CUNEF University, passionate about soft
 - **[Biblioteca API REST](https://github.com/jcestefania/biblioteca-api)**: REST API for managing a book library, with CRUD functionalities, Swagger documentation, and MongoDB connection using Mongoose. Developed with Node.js and Express.
 
 ## 🎓 Education
+- **MSc in Applied Artificial Intelligence**: Universidad Carlos III de Madrid (UC3M) (Current).
 - **Bachelor's Degree in Computer Science**: CUNEF University (2021–Present).  
   - Specialization in Computing.  
   - Honors in Artificial Intelligence and Machine Learning.
