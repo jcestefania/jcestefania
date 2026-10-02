@@ -53,7 +53,7 @@ I am an **AI Engineer & Computer Scientist** with an **MSc in Applied Artificial
 
 ## 🌟 Featured Projects
 
-### 🚁 [UAV Search & Rescue (SAR) Optimization Framework](https://github.com/jcestefania/uav-search-and-rescue) *(MSc Thesis)*
+### 🚁 [UAV Search & Rescue (SAR) Optimization Framework](https://github.com/jcestefania/uav-search-and-rescue) *(MSc Thesis 9.6/10)*
 > **Autonomous Path Planning for UAVs in Uncertainty Environments using Bio-inspired Metaheuristics & GIS**
 - Integrated real GIS geospatial data (OpenStreetMap) with Robert Koester’s **Lost Person Behavior (LPB)** Bayesian probability maps.
 - Implemented and evaluated bio-inspired metaheuristic algorithms (**ACO, ABC, BHA, Greedy**) adapted to UAV kinematic constraints and realistic sensor footprint modeling (50 m).
@@ -80,8 +80,7 @@ I am an **AI Engineer & Computer Scientist** with an **MSc in Applied Artificial
 ## 🎓 Education & Credentials
 
 - 🎓 **MSc in Applied Artificial Intelligence** — *Universidad Carlos III de Madrid (UC3M)*
-  - *Specialization:* Robotics, Autonomous Systems, Optimization & Machine Learning.
-  - *Master's Thesis:* UAV Path Optimization for SAR Operations using Bio-inspired Algorithms.
+  - *Master's Thesis:* UAV Path Optimization for SAR Operations using Bio-inspired Algorithms (9.6/10).
 - 🎓 **BSc in Computer Science** — *CUNEF University*
   - *Honors (Matrícula de Honor)* in Artificial Intelligence and Machine Learning.
   - *BSc Thesis:* Distinction (*Matrícula de Honor - 9.6/10*).
