@@ -8,16 +8,6 @@
 
 I am an **AI Engineer & Computer Scientist** with an **MSc in Applied Artificial Intelligence** from Universidad Carlos III de Madrid (UC3M) and a **BSc in Computer Science** from CUNEF University. 
 
-I specialize in **Autonomous Systems, Bio-inspired Metaheuristics, Swarm Intelligence, and Applied Machine Learning**. My work focuses on solving complex real-world optimization problems—such as UAV Search and Rescue (SAR) mission planning, spatial probabilistic modeling, and intelligent IoT systems.
-
----
-
-### 🔭 Current Focus & Research
-- 🚁 **Autonomous UAV Path Planning**: Multi-objective trajectory optimization for wilderness & maritime Search and Rescue (SAR).
-- 🐝 **Bio-inspired Metaheuristics & Swarm Robotics**: Ant Colony Optimization (ACO), Artificial Bee Colony (ABC), Black Hole Algorithm (BHA), and Particle Swarm Optimization (PSO).
-- 🗺️ **Geospatial & Bayesian Search Theory**: Integration of GIS/OpenStreetMap with Robert Koester's Lost Person Behavior (LPB) probability distributions and sensor footprint modeling.
-- 🧪 **High-Performance Simulation**: Large-scale Monte Carlo evaluations, hyperparameter tuning with Optuna, and parallel computing architectures.
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -97,15 +87,6 @@ I specialize in **Autonomous Systems, Bio-inspired Metaheuristics, Swarm Intelli
   - *BSc Thesis:* Distinction (*Matrícula de Honor - 9.6/10*).
 - ☁️ **[AWS Academy Cloud Foundations](https://www.credly.com/badges/57da8153-bfba-4f82-b8be-6b7fdcda570f/public_url)** — *Amazon Web Services*
 - 🛡️ **Cybersecurity Certification (Hacking School I & II)** — *U-tad*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcestefania&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Juan Carlos's GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcestefania&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
-</p>
 
 ---
 
